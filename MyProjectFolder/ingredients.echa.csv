@@ -1,0 +1,465 @@
+_id,name,ViaInhalationRoute,ViaDermalRoute
+668fa5d25b6a97b5cc26914b,"(E)-4-(2,6,6-trimethyl-1-cyclohexen-1-yl)-3-buten-2-one",DNEL (Derived No Effect Level): 3.1 mg/m³,DNEL (Derived No Effect Level): 3.6 mg/kg bw/day
+668fa5d35b6a97b5cc26914d,"(Z)-3,7-dimethylocta-2,6-dienal",DNEL (Derived No Effect Level): 2.7 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa5d35b6a97b5cc26914f,"1,1',1'',1'''-ethylenedinitrilotetrapropan-2-ol",DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa5d35b6a97b5cc269151,"1,1'-iminodipropan-2-ol",DNEL (Derived No Effect Level): 3.9 mg/m³,DNEL (Derived No Effect Level): 6.3 mg/kg bw/day
+668fa5d45b6a97b5cc269153,"1,1,3,3-tetramethylguanidine",DNEL (Derived No Effect Level): 0.3 mg/m³,DNEL (Derived No Effect Level): 0.17 mg/kg bw/day
+668fa5d45b6a97b5cc269155,"1,2,3,6-tetrahydrophthalic anhydride",DNEL (Derived No Effect Level): 1.45 mg/m³,DNEL (Derived No Effect Level): 0.42 mg/kg bw/day
+668fa5d45b6a97b5cc269157,"1,2,3-trichloropropane",DMEL (Derived Minimum Effect Level): 0.711 µg/m³,DMEL (Derived Minimum Effect Level): 0.205 µg/kg bw/day
+668fa5d45b6a97b5cc269159,"1,2,4-trimethylbenzene",DNEL (Derived No Effect Level): 29.4 mg/m³,DNEL (Derived No Effect Level): 9512 mg/kg bw/day
+668fa5d55b6a97b5cc26915b,"1,2-benzisothiazol-3(2H)-one 1,1-dioxide",DNEL (Derived No Effect Level): 50 mg/m³,DNEL (Derived No Effect Level): 2.233 mg/kg bw/day
+668fa5d55b6a97b5cc26915d,"1,2-dichlorobenzene",DNEL (Derived No Effect Level): 1 mg/m³,DNEL (Derived No Effect Level): 0.6 mg/kg bw/day
+668fa5d55b6a97b5cc26915f,"1,2-dichloropropane",DNEL (Derived No Effect Level): 14.44 mg/m³,DNEL (Derived No Effect Level): 0.52 mg/kg bw/day
+668fa5d65b6a97b5cc269161,"1,2-dimethoxyethane",DNEL (Derived No Effect Level): 0.33 mg/m³,DNEL (Derived No Effect Level): 0.09 mg/kg bw/day
+668fa5d65b6a97b5cc269163,"1,2-diphenoxyethane",DNEL (Derived No Effect Level): 6.48 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa5d65b6a97b5cc269165,"1,3-di-o-tolylguanidine",DNEL (Derived No Effect Level): 0.17 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa5d65b6a97b5cc269167,"1,3-dibutyl-2-thiourea",DNEL (Derived No Effect Level): 0.04 mg/m³,DNEL (Derived No Effect Level): 1.04 mg/kg bw/day
+668fa5d75b6a97b5cc269169,"1,3-diethyl-2-thiourea",DNEL (Derived No Effect Level): 0.04 mg/m³,DNEL (Derived No Effect Level): 1.04 mg/kg bw/day
+668fa5d75b6a97b5cc26916b,"1,3-dihydroxyacetone",DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa5d75b6a97b5cc26916d,"1,3-diisopropylbenzene",DNEL (Derived No Effect Level): 2.6 mg/m³,DNEL (Derived No Effect Level): 15 mg/kg bw/day
+668fa5d75b6a97b5cc26916f,"1,3-dimethylimidazolidin-2-one",DNEL (Derived No Effect Level): 0.06 mg/m³,DNEL (Derived No Effect Level): 0.017 mg/kg bw/day
+668fa5d85b6a97b5cc269171,"1,3-diphenyl-2-thiourea",DNEL (Derived No Effect Level): 0.29 mg/m³,DNEL (Derived No Effect Level): 0.83 mg/kg bw/day
+668fa5d85b6a97b5cc269173,"1,3-diphenylguanidine",DNEL (Derived No Effect Level): 0.06 mg/m³,DNEL (Derived No Effect Level): 0.17 mg/kg bw/day
+668fa5d85b6a97b5cc269175,"1,4-dichlorobenzene",DNEL (Derived No Effect Level): 8.2 mg/m³,DNEL (Derived No Effect Level): 0.7 mg/kg bw/day
+668fa5d95b6a97b5cc269177,"1,4-diethylbenzene",DNEL (Derived No Effect Level): 2.61 mg/m³,DNEL (Derived No Effect Level): 2.25 mg/kg bw/day
+668fa5d95b6a97b5cc269179,"1,4-diisopropylbenzene",DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 16.7 mg/kg bw/day
+668fa5d95b6a97b5cc26917b,"1,4-dimethylpiperazine",DNEL (Derived No Effect Level): 3.044 mg/m³,DNEL (Derived No Effect Level): 1.75 mg/kg bw/day
+668fa5d95b6a97b5cc26917d,"1,4-divinylbenzene",DNEL (Derived No Effect Level): 21.4 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa5da5b6a97b5cc26917f,1-aminopropan-2-ol,DNEL (Derived No Effect Level): 0.88 mg/m³,DNEL (Derived No Effect Level): 0.51 mg/kg bw/day
+668fa5da5b6a97b5cc269181,1-bromobutane,DNEL (Derived No Effect Level): 1.8 mg/m³,DNEL (Derived No Effect Level): 0.606 mg/kg bw/day
+668fa5da5b6a97b5cc269183,1-dodecylpyridinium chloride,DNEL (Derived No Effect Level): 0.2 mg/m³,DNEL (Derived No Effect Level): 0.114 mg/kg bw/day
+668fa5db5b6a97b5cc269185,1-methoxypropan-2-ol,DNEL (Derived No Effect Level): 43.9 mg/m³,DNEL (Derived No Effect Level): 78 mg/kg bw/day
+668fa5db5b6a97b5cc269187,1-methylpiperazine,DNEL (Derived No Effect Level): 0.268 mg/m³,DNEL (Derived No Effect Level): 0.317 mg/kg bw/day
+668fa5db5b6a97b5cc269189,1-methylpiperidin-4-ol,DNEL (Derived No Effect Level): 2.25 mg/m³,DNEL (Derived No Effect Level): 1.52 mg/kg bw/day
+668fa5db5b6a97b5cc26918b,1-nitropropane,DNEL (Derived No Effect Level): 1.5 mg/m³,DNEL (Derived No Effect Level): 50 mg/kg bw/day
+668fa5dc5b6a97b5cc26918d,1-phenyl-3-pyrazolidone,DNEL (Derived No Effect Level): 2.99 mg/m³,DNEL (Derived No Effect Level): 2.02 mg/kg bw/day
+668fa5dc5b6a97b5cc26918f,1-phenylethanol,DNEL (Derived No Effect Level): 0.717 mg/m³,DNEL (Derived No Effect Level): 0.476 mg/kg bw/day
+668fa5dc5b6a97b5cc269191,1-phenylethanol,DNEL (Derived No Effect Level): 0.717 mg/m³,DNEL (Derived No Effect Level): 0.476 mg/kg bw/day
+668fa5dc5b6a97b5cc269193,1-phenylethyl acetate,DNEL (Derived No Effect Level): 1.3 mg/m³,DNEL (Derived No Effect Level): 0.75 mg/kg bw/day
+668fa5dd5b6a97b5cc269195,12-hydroxy-N-(2-hydroxyethyl)octadecan-1-amide,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa5dd5b6a97b5cc269197,2'-acetonaphthone,DNEL (Derived No Effect Level): 0.287 mg/m³,DNEL (Derived No Effect Level): 0.165 mg/kg bw/day
+668fa5dd5b6a97b5cc269199,"2,2',6,6'-tetrabromo-4,4'-isopropylidenediphenol",DNEL (Derived No Effect Level): 4.3 mg/m³,DNEL (Derived No Effect Level): 125 mg/kg bw/day
+668fa5de5b6a97b5cc26919b,"2,2'-(m-tolylimino)diethanol",DNEL (Derived No Effect Level): 0.24 mg/m³,DNEL (Derived No Effect Level): 0.07 mg/kg bw/day
+668fa5de5b6a97b5cc26919d,"2,2'-butyliminodiethanol",DNEL (Derived No Effect Level): 0.281 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa5de5b6a97b5cc26919f,"2,2'-dimethyl-2,2'-azodipropiononitrile",DNEL (Derived No Effect Level): 0.07 mg/m³,DNEL (Derived No Effect Level): 97.08 mg/kg bw/day
+668fa5de5b6a97b5cc2691a1,"2,2'-ethylenedioxydiethyl bis(2-ethylhexanoate)",DNEL (Derived No Effect Level): 8.33 mg/m³,DNEL (Derived No Effect Level): 3 mg/kg bw/day
+668fa5df5b6a97b5cc2691a3,"2,2'-ethylenedioxydiethyl dimethacrylate",DNEL (Derived No Effect Level): 14.5 mg/m³,DNEL (Derived No Effect Level): 8.33 mg/kg bw/day
+668fa5df5b6a97b5cc2691a5,"2,2'-methylenebis[6-(1-methylcyclohexyl)-p-cresol]",DNEL (Derived No Effect Level): 4.93 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa5df5b6a97b5cc2691a7,"2,2'-methyliminodiethanol",DNEL (Derived No Effect Level): 0.4 mg/m³,DNEL (Derived No Effect Level): 0.67 mg/kg bw/day
+668fa5e05b6a97b5cc2691a9,"2,2'-[ethane-1,2-diylbis(oxy)]bisethyl diacetate",DNEL (Derived No Effect Level): 6.92 mg/m³,DNEL (Derived No Effect Level): 3.98 mg/kg bw/day
+668fa5e05b6a97b5cc2691ab,"2,2,2-trichloro-1-phenylethyl acetate",DNEL (Derived No Effect Level): 1.45 mg/m³,DNEL (Derived No Effect Level): 0.149 mg/kg bw/day
+668fa5e05b6a97b5cc2691ad,"2,2-dimethyl-1,3-dioxolan-4-ylmethanol",DNEL (Derived No Effect Level): 15 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa5e05b6a97b5cc2691af,"2,2-dimethylbutane",DNEL (Derived No Effect Level): 1131 mg/m³,DNEL (Derived No Effect Level): 1377 mg/kg bw/day
+668fa5e15b6a97b5cc2691b1,"2,3-didehydro-D-erythro-hexono-1,4-lactone",DNEL (Derived No Effect Level): 35.3 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa5e15b6a97b5cc2691b3,"2,3-dimethylbutane",DNEL (Derived No Effect Level): 1131 mg/m³,DNEL (Derived No Effect Level): 1377 mg/kg bw/day
+668fa5e15b6a97b5cc2691b5,"2,3-epoxypropyl methacrylate",DMEL (Derived Minimum Effect Level): 4 µg/m³,DMEL (Derived Minimum Effect Level): 2.3 µg/kg bw/day
+668fa5e15b6a97b5cc2691b7,"2,4,6-triallyloxy-1,3,5-triazine",DNEL (Derived No Effect Level): 0.52 mg/m³,DNEL (Derived No Effect Level): 0.75 mg/kg bw/day
+668fa5e25b6a97b5cc2691b9,"2,4,6-tris(dimethylaminomethyl)phenol",DNEL (Derived No Effect Level): 0.13 mg/m³,DNEL (Derived No Effect Level): 0.075 mg/kg bw/day
+668fa5e25b6a97b5cc2691bb,"2,4-dinitrophenol",DNEL (Derived No Effect Level): 0.0291 mg/m³,DNEL (Derived No Effect Level): 0.008 mg/kg bw/day
+668fa5e25b6a97b5cc2691bd,"2,5-di-tert-butylhydroquinone",DNEL (Derived No Effect Level): 0.145 mg/m³,DNEL (Derived No Effect Level): 83.3 µg/kg bw/day
+668fa5e25b6a97b5cc2691bf,"2,5-di-tert-pentylhydroquinone",DNEL (Derived No Effect Level): 0.203 mg/m³,DNEL (Derived No Effect Level): 0.117 mg/kg bw/day
+668fa5e35b6a97b5cc2691c1,"2,5-diaminobenzenesulphonic acid",DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa5e35b6a97b5cc2691c3,"2,6,10,15,19,23-hexamethyltetracosa-2,6,10,14,18,22-hexaene",DNEL (Derived No Effect Level): 6.8 mg/m³,DNEL (Derived No Effect Level): 19.4 mg/kg bw/day
+668fa5e35b6a97b5cc2691c5,"2,6-di-tert-butyl-α-dimethylamino-p-cresol",DNEL (Derived No Effect Level): 0.5 mg/m³,DNEL (Derived No Effect Level): 0.15 mg/kg bw/day
+668fa5e45b6a97b5cc2691c7,"2,6-dimethylhept-5-enal",DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa5e45b6a97b5cc2691c9,2-(2-butoxyethoxy)ethyl 6-propylpiperonyl ether,DNEL (Derived No Effect Level): 1.94 mg/m³,DNEL (Derived No Effect Level): 13.9 mg/kg bw/day
+668fa5e45b6a97b5cc2691cb,2-(2-butoxyethoxy)ethyl 6-propylpiperonyl ether,DNEL (Derived No Effect Level): 0.388 mg/m³,DNEL (Derived No Effect Level): 0.221 mg/kg bw/day
+668fa5e45b6a97b5cc2691cd,2-(2-phenoxyethoxy)ethanol,DNEL (Derived No Effect Level): 21.5 mg/m³,DNEL (Derived No Effect Level): 13.7 mg/kg bw/day
+668fa5e55b6a97b5cc2691cf,2-(4-tert-butylbenzyl)propionaldehyde,DNEL (Derived No Effect Level): 0.11 mg/m³,DNEL (Derived No Effect Level): 0.89 mg/kg bw/day
+668fa5e55b6a97b5cc2691d1,2-(diethylamino)ethyl methacrylate,DNEL (Derived No Effect Level): 1.09 mg/m³,DNEL (Derived No Effect Level): 6.25 mg/kg bw/day
+668fa5e55b6a97b5cc2691d3,2-(morpholinothio)benzothiazole,DMEL (Derived Minimum Effect Level): 1.7 mg/m³,DNEL (Derived No Effect Level): 33 mg/kg bw/day
+668fa5e55b6a97b5cc2691d5,2-amino-4-nitrophenol,DNEL (Derived No Effect Level): 1.79 mg/m³,DNEL (Derived No Effect Level): 1.49 mg/kg bw/day
+668fa5e65b6a97b5cc2691d7,2-aminobenzenesulphonic acid,DNEL (Derived No Effect Level): 3.623188406 mg/m³,DNEL (Derived No Effect Level): 4.166666667 mg/kg bw/day
+668fa5e65b6a97b5cc2691d9,2-aminobutan-1-ol,DNEL (Derived No Effect Level): 0.34 mg/m³,DNEL (Derived No Effect Level): 0.66 mg/kg bw/day
+668fa5e65b6a97b5cc2691db,2-benzoylbenzoic acid,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa5e65b6a97b5cc2691dd,2-chloroacetamide,DNEL (Derived No Effect Level): 0.174 mg/m³,DNEL (Derived No Effect Level): 0.086 mg/kg bw/day
+668fa5e75b6a97b5cc2691df,2-chlorobenzaldehyde,DNEL (Derived No Effect Level): 0.363 mg/m³,DNEL (Derived No Effect Level): 0.208 mg/kg bw/day
+668fa5e75b6a97b5cc2691e1,2-chloropropane,DNEL (Derived No Effect Level): 16.3 mg/m³,DNEL (Derived No Effect Level): 47.2 mg/kg bw/day
+668fa5e75b6a97b5cc2691e3,2-chlorotoluene,DNEL (Derived No Effect Level): 1 mg/m³,DNEL (Derived No Effect Level): 0.286 mg/kg bw/day
+668fa5e75b6a97b5cc2691e5,2-ethylaminoethanol,DNEL (Derived No Effect Level): 0.05 mg/m³,DNEL (Derived No Effect Level): 0.03 mg/kg bw/day
+668fa5e85b6a97b5cc2691e7,2-ethylanthraquinone,DNEL (Derived No Effect Level): 0.12 mg/m³,DNEL (Derived No Effect Level): 0.03 mg/kg bw/day
+668fa5e85b6a97b5cc2691e9,2-ethylhexan-1-ol,DNEL (Derived No Effect Level): 2.3 mg/m³,DNEL (Derived No Effect Level): 11.4 mg/kg bw/day
+668fa5e85b6a97b5cc2691eb,2-ethylhexyl acetate,DNEL (Derived No Effect Level): 3 mg/m³,DNEL (Derived No Effect Level): 15 mg/kg bw/day
+668fa5e95b6a97b5cc2691ed,2-furaldehyde,DNEL (Derived No Effect Level): 1.067 mg/m³,DNEL (Derived No Effect Level): 0.83 mg/kg bw/day
+668fa5e95b6a97b5cc2691ef,2-furoic acid,DNEL (Derived No Effect Level): 33.3 µg/m³,DNEL (Derived No Effect Level): 19 µg/kg bw/day
+668fa5e95b6a97b5cc2691f1,2-isopropoxyethanol,DNEL (Derived No Effect Level): 43 mg/m³,DNEL (Derived No Effect Level): 4.8 mg/kg bw/day
+668fa5e95b6a97b5cc2691f3,2-mercaptopropionic acid,DNEL (Derived No Effect Level): 0.074 mg/m³,DNEL (Derived No Effect Level): 50 µg/kg bw/day
+668fa5ea5b6a97b5cc2691f5,2-methoxy-1-methylethyl acetate,DNEL (Derived No Effect Level): 33 mg/m³,DNEL (Derived No Effect Level): 320 mg/kg bw/day
+668fa5ea5b6a97b5cc2691f7,2-methyl-1-phenylpropan-2-ol,DNEL (Derived No Effect Level): 0.386 mg/m³,DNEL (Derived No Effect Level): 20.8 µg/kg bw/day
+668fa5ea5b6a97b5cc2691f9,2-methyl-4-phenylbutan-2-ol,DNEL (Derived No Effect Level): 0.386 mg/m³,DNEL (Derived No Effect Level): 20.8 µg/kg bw/day
+668fa5ea5b6a97b5cc2691fb,2-methylanthraquinone,DNEL (Derived No Effect Level): 7.48 mg/m³,DNEL (Derived No Effect Level): 5.05 mg/kg bw/day
+668fa5eb5b6a97b5cc2691fd,2-methylbutan-2-ol,DNEL (Derived No Effect Level): 4.3 mg/m³,DNEL (Derived No Effect Level): 1.24 mg/kg bw/day
+668fa5eb5b6a97b5cc2691ff,2-methylbutane,DNEL (Derived No Effect Level): 643 mg/m³,DNEL (Derived No Effect Level): 214 mg/kg bw/day
+668fa5eb5b6a97b5cc269201,2-methylhydroquinone,DNEL (Derived No Effect Level): 0.557 mg/m³,DNEL (Derived No Effect Level): 0.32 mg/kg bw/day
+668fa5ec5b6a97b5cc269203,"2-methylpentane-2,4-diol",DNEL (Derived No Effect Level): 7.83 mg/m³,DNEL (Derived No Effect Level): 22.5 mg/kg bw/day
+668fa5ec5b6a97b5cc269205,2-methylpropan-2-ol,DNEL (Derived No Effect Level): 0.5 mg/m³,DNEL (Derived No Effect Level): 2.7 mg/kg bw/day
+668fa5ec5b6a97b5cc269207,2-methylpropane-2-thiol,DNEL (Derived No Effect Level): 2.57 mg/m³,DNEL (Derived No Effect Level): 3 mg/kg bw/day
+668fa5ec5b6a97b5cc269209,2-methylpyridine,DNEL (Derived No Effect Level): 0.6 mg/m³,DNEL (Derived No Effect Level): 0.07 mg/kg bw/day
+668fa5ed5b6a97b5cc26920b,2-methylundecanal,DNEL (Derived No Effect Level): 9.1 mg/m³,DNEL (Derived No Effect Level): 5.23 mg/kg bw/day
+668fa5ed5b6a97b5cc26920d,2-phenoxyethyl isobutyrate,DNEL (Derived No Effect Level): 4.35 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa5ed5b6a97b5cc26920f,2-phenylethanol,DNEL (Derived No Effect Level): 17.7 mg/m³,DNEL (Derived No Effect Level): 12.7 mg/kg bw/day
+668fa5ed5b6a97b5cc269211,2-phenylpropene,DNEL (Derived No Effect Level): 4.83 mg/m³,DNEL (Derived No Effect Level): 1.4 mg/kg bw/day
+668fa5ee5b6a97b5cc269213,2-sec-butylphenol,DNEL (Derived No Effect Level): 0.232 mg/m³,DNEL (Derived No Effect Level): 0.02 mg/kg bw/day
+668fa5ee5b6a97b5cc269215,2-vinylpyridine,DNEL (Derived No Effect Level): 0.44 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa5ee5b6a97b5cc269217,"3,3'-thiodi(propionic acid)",DNEL (Derived No Effect Level): 0.58 mg/m³,DNEL (Derived No Effect Level): 0.167 mg/kg bw/day
+668fa5ee5b6a97b5cc269219,"3,5-dimethylpyrazole",DNEL (Derived No Effect Level): 58 µg/m³,DNEL (Derived No Effect Level): 33.3 µg/kg bw/day
+668fa5ef5b6a97b5cc26921b,"3,7-dimethyloctan-1-ol",DNEL (Derived No Effect Level): 1.3 mg/m³,DNEL (Derived No Effect Level): 0.75 mg/kg bw/day
+668fa6045b6a97b5cc26921d,"3,7-dimethyloctan-3-ol",DNEL (Derived No Effect Level): 2.75 mg/m³,DNEL (Derived No Effect Level): 1.58 mg/kg bw/day
+668fa6045b6a97b5cc26921f,"3,7-dimethyloctane-1,7-diol",DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa6045b6a97b5cc269221,3-chloroaniline,DNEL (Derived No Effect Level): 0.09057971 mg/m³,DNEL (Derived No Effect Level): 0.104166667 mg/kg bw/day
+668fa6045b6a97b5cc269223,3-diethylaminophenol,DNEL (Derived No Effect Level): 1.811594203 mg/m³,DNEL (Derived No Effect Level): 2.083333333 mg/kg bw/day
+668fa6055b6a97b5cc269225,"3-mercaptopropane-1,2-diol",DNEL (Derived No Effect Level): 0.074 mg/m³,DNEL (Derived No Effect Level): 0.05 mg/kg bw/day
+668fa6055b6a97b5cc269227,3-methyl-2-butenal,DNEL (Derived No Effect Level): 1.5 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6055b6a97b5cc269229,3-methylpyridine,DNEL (Derived No Effect Level): 1.9 mg/m³,DNEL (Derived No Effect Level): 0.07 mg/kg bw/day
+668fa6055b6a97b5cc26922b,3-p-cumenyl-2-methylpropionaldehyde,DNEL (Derived No Effect Level): 0.22 mg/m³,DNEL (Derived No Effect Level): 0.13 mg/kg bw/day
+668fa6065b6a97b5cc26922d,"3a,4,7,7a-tetrahydro-4,7-methanoindene",DNEL (Derived No Effect Level): 0.26 mg/m³,DNEL (Derived No Effect Level): 0.15 mg/kg bw/day
+668fa6065b6a97b5cc26922f,4'-aminoazobenzene-4-sulphonic acid,DNEL (Derived No Effect Level): 13.1 mg/m³,DNEL (Derived No Effect Level): 7.5 mg/kg bw/day
+668fa6065b6a97b5cc269231,4'-hydroxyacetophenone,DNEL (Derived No Effect Level): 0.21 mg/m³,DNEL (Derived No Effect Level): 2 mg/kg bw/day
+668fa6065b6a97b5cc269233,4'-methoxyacetophenone,DNEL (Derived No Effect Level): 0.741 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6075b6a97b5cc269235,"4'-tert-butyl-2',6'-dimethyl-3',5'-dinitroacetophenone",DNEL (Derived No Effect Level): 43.5 µg/m³,DNEL (Derived No Effect Level): 67 µg/kg bw/day
+668fa6075b6a97b5cc269237,"4,4'-bis(diethylamino)benzophenone",DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6075b6a97b5cc269239,"4,4'-isopropylidenedicyclohexanol",DNEL (Derived No Effect Level): 0.74 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6075b6a97b5cc26923b,"4,4'-isopropylidenediphenol",DNEL (Derived No Effect Level): 1 mg/m³,DNEL (Derived No Effect Level): 24 µg/kg bw/day
+668fa6085b6a97b5cc26923d,"4,4'-methylenebis[2-chloroaniline]",DMEL (Derived Minimum Effect Level): 0.000307 mg/m³,DMEL (Derived Minimum Effect Level): 0.00445 mg/kg bw/day
+668fa6085b6a97b5cc26923f,"4,4'-sulphonyldiphenol",DNEL (Derived No Effect Level): 0.4 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa6085b6a97b5cc269241,"4,7-dichloroquinoline",DNEL (Derived No Effect Level): 8.09 mg/m³,DNEL (Derived No Effect Level): 4.65 mg/kg bw/day
+668fa6095b6a97b5cc269243,4-(4-methoxyphenyl)butan-2-one,DNEL (Derived No Effect Level): 2.17 mg/m³,DNEL (Derived No Effect Level): 1.25 mg/kg bw/day
+668fa6095b6a97b5cc269245,4-allylveratrole,DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6095b6a97b5cc269247,"4-chloro-α,α,α-trifluorotoluene",DNEL (Derived No Effect Level): 0.0013 mg/m³,DNEL (Derived No Effect Level): 0.0005 mg/kg bw/day
+668fa6095b6a97b5cc269249,4-chlororesorcinol,DNEL (Derived No Effect Level): 1.2318841 mg/m³,DNEL (Derived No Effect Level): 1.4166667 mg/kg bw/day
+668fa60a5b6a97b5cc26924b,4-hydroxybenzenesulphonic acid,DNEL (Derived No Effect Level): 4.35 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa60a5b6a97b5cc26924d,4-methoxybenzyl alcohol,DNEL (Derived No Effect Level): 0.37 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa60a5b6a97b5cc26924f,4-methoxybenzyl alcohol,DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 29.8 ng/kg bw/day
+668fa60a5b6a97b5cc269251,4-methoxyphenylacetic acid,DNEL (Derived No Effect Level): 11 mg/m³,DNEL (Derived No Effect Level): 7.4 mg/kg bw/day
+668fa60b5b6a97b5cc269253,4-methylanisole,DNEL (Derived No Effect Level): 0.7 mg/m³,DNEL (Derived No Effect Level): 8.3 mg/kg bw/day
+668fa60b5b6a97b5cc269255,4-methylanisole,DNEL (Derived No Effect Level): 0.29 mg/m³,DNEL (Derived No Effect Level): 0.167 mg/kg bw/day
+668fa60b5b6a97b5cc269257,4-methylanisole,DNEL (Derived No Effect Level): 0.7 mg/m³,DNEL (Derived No Effect Level): 8.3 mg/kg bw/day
+668fa60b5b6a97b5cc269259,4-methylmorpholine,DNEL (Derived No Effect Level): 0.81 mg/m³,DNEL (Derived No Effect Level): 0.33 mg/kg bw/day
+668fa60c5b6a97b5cc26925b,4-methylpentan-2-ol,DNEL (Derived No Effect Level): 14.7 mg/m³,DNEL (Derived No Effect Level): 4.2 mg/kg bw/day
+668fa60c5b6a97b5cc26925d,4-methylpentan-2-one,DNEL (Derived No Effect Level): 14.7 mg/m³,DNEL (Derived No Effect Level): 4.2 mg/kg bw/day
+668fa60c5b6a97b5cc26925f,4-methylpyridine,DNEL (Derived No Effect Level): 0.6 mg/m³,DNEL (Derived No Effect Level): 0.07 mg/kg bw/day
+668fa60c5b6a97b5cc269261,4-nitroaniline,DNEL (Derived No Effect Level): 0.05 mg/m³,DNEL (Derived No Effect Level): 0.043478261 mg/kg bw/day
+668fa60d5b6a97b5cc269263,4-tert-butylcyclohexanol,DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 0.313 mg/kg bw/day
+668fa60d5b6a97b5cc269265,4-tert-butylphenol,DNEL (Derived No Effect Level): 0.09 mg/m³,DNEL (Derived No Effect Level): 0.026 mg/kg bw/day
+668fa60d5b6a97b5cc269267,"5,5-dimethylhydantoin",DNEL (Derived No Effect Level): 15 mg/m³,DNEL (Derived No Effect Level): 1.95 mg/kg bw/day
+668fa6225b6a97b5cc269269,5-aminosalicylic acid,DNEL (Derived No Effect Level): 0.6 mg/m³,DNEL (Derived No Effect Level): 1.37 mg/kg bw/day
+668fa6225b6a97b5cc26926b,5-ethyl-2-methylpyridine,DNEL (Derived No Effect Level): 0.2188 mg/m³,DNEL (Derived No Effect Level): 0.125 mg/kg bw/day
+668fa6225b6a97b5cc26926d,5-methylhexan-2-one,DNEL (Derived No Effect Level): 17.8125 mg/m³,DNEL (Derived No Effect Level): 5.12 mg/kg bw/day
+668fa6225b6a97b5cc26926f,5-nitrosalicylic acid,DNEL (Derived No Effect Level): 0.655246377 mg/m³,DNEL (Derived No Effect Level): 0.753533333 mg/kg bw/day
+668fa6235b6a97b5cc269271,5-sulphosalicylic acid,DNEL (Derived No Effect Level): 58 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa6235b6a97b5cc269273,"6,6'-di-tert-butyl-2,2'-thiodi-p-cresol",DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 0.833 mg/kg bw/day
+668fa6235b6a97b5cc269275,"6,6'-di-tert-butyl-4,4'-butylidenedi-m-cresol",DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6245b6a97b5cc269277,"6,6'-di-tert-butyl-4,4'-thiodi-m-cresol",DNEL (Derived No Effect Level): 0.7 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6245b6a97b5cc269279,6-aminonaphthalene-2-sulphonic acid,DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa6245b6a97b5cc26927b,6-methylhept-5-en-2-one,DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa6245b6a97b5cc26927d,"6-phenyl-1,3,5-triazine-2,4-diyldiamine",DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 33.3 µg/kg bw/day
+668fa6255b6a97b5cc26927f,7-(diethylamino)-4-methyl-2-benzopyrone,DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa6255b6a97b5cc269281,7-hydroxycitronellal,DNEL (Derived No Effect Level): 2.1 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa6255b6a97b5cc269283,Acetaldehyde oxime,DNEL (Derived No Effect Level): 0.14 mg/m³,DNEL (Derived No Effect Level): 0.04 mg/kg bw/day
+668fa6255b6a97b5cc269285,Acetone,DNEL (Derived No Effect Level): 200 mg/m³,DNEL (Derived No Effect Level): 62 mg/kg bw/day
+668fa63a5b6a97b5cc269287,Acetonitrile,DNEL (Derived No Effect Level): 2.4 mg/m³,DNEL (Derived No Effect Level): 1.2 mg/kg bw/day
+668fa63a5b6a97b5cc269289,Acetophenone,DNEL (Derived No Effect Level): 0.22 mg/m³,DNEL (Derived No Effect Level): 0.125 mg/kg bw/day
+668fa63a5b6a97b5cc26928b,Acrylonitrile,DNEL (Derived No Effect Level): 0.1 mg/m³,DNEL (Derived No Effect Level): 0.009 mg/kg bw/day
+668fa63b5b6a97b5cc26928d,"Allyl 2,3-epoxypropyl ether",DNEL (Derived No Effect Level): 0.477 mg/m³,DNEL (Derived No Effect Level): 0.095 mg/kg bw/day
+668fa63b5b6a97b5cc26928f,Allyl methacrylate,DNEL (Derived No Effect Level): 0.43 mg/m³,DNEL (Derived No Effect Level): 0.35 mg/kg bw/day
+668fa63b5b6a97b5cc269291,Allylamine,DNEL (Derived No Effect Level): 0.056 mg/m³,DNEL (Derived No Effect Level): 0.064 mg/kg bw/day
+668fa63b5b6a97b5cc269293,"Androst-4-ene-3,17-dione",DNEL (Derived No Effect Level): 43 µg/m³,DNEL (Derived No Effect Level): 25 µg/kg bw/day
+668fa63c5b6a97b5cc269295,Anthranilamide,DNEL (Derived No Effect Level): 0.435 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa63c5b6a97b5cc269297,Anthraquinone,DNEL (Derived No Effect Level): 0.052 mg/m³,DNEL (Derived No Effect Level): 0.208 mg/kg bw/day
+668fa63c5b6a97b5cc269299,Arginine,DNEL (Derived No Effect Level): 136.2 mg/m³,DNEL (Derived No Effect Level): 391.4 mg/kg bw/day
+668fa63d5b6a97b5cc26929b,Asparagine,DNEL (Derived No Effect Level): 12.2 mg/m³,DNEL (Derived No Effect Level): 8.25 mg/kg bw/day
+668fa63d5b6a97b5cc26929d,Aspartic acid,DNEL (Derived No Effect Level): 61 mg/m³,DNEL (Derived No Effect Level): 18 mg/kg bw/day
+668fa63d5b6a97b5cc26929f,Benzaldehyde,DNEL (Derived No Effect Level): 4.9 mg/m³,DNEL (Derived No Effect Level): 0.67 mg/kg bw/day
+668fa63d5b6a97b5cc2692a1,"Benzene-1,2,4,5-tetracarboxylic acid",DNEL (Derived No Effect Level): 0.35 mg/m³,DNEL (Derived No Effect Level): 0.8 mg/kg bw/day
+668fa63e5b6a97b5cc2692a3,Benzenesulphonic acid,DNEL (Derived No Effect Level): 4.35 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa63e5b6a97b5cc2692a5,Benzimidazole,DNEL (Derived No Effect Level): 2.96 mg/m³,DNEL (Derived No Effect Level): 2 mg/kg bw/day
+668fa63e5b6a97b5cc2692a7,Benzoic acid,DNEL (Derived No Effect Level): 1.5 mg/m³,DNEL (Derived No Effect Level): 31.25 mg/kg bw/day
+668fa63e5b6a97b5cc2692a9,Benzotriazole,DNEL (Derived No Effect Level): 2.1 mg/m³,DNEL (Derived No Effect Level): 0.12 mg/kg bw/day
+668fa63f5b6a97b5cc2692ab,Benzyl 4-hydroxybenzoate,DNEL (Derived No Effect Level): 0.03929 mg/m³,DNEL (Derived No Effect Level): 0.005613 mg/kg bw/day
+668fa63f5b6a97b5cc2692ad,Benzyl alcohol,DNEL (Derived No Effect Level): 5.4 mg/m³,DNEL (Derived No Effect Level): 4 mg/kg bw/day
+668fa63f5b6a97b5cc2692af,Benzyl butyl phthalate,DNEL (Derived No Effect Level): 0.78 mg/m³,DNEL (Derived No Effect Level): 4.5 mg/kg bw/day
+668fa63f5b6a97b5cc2692b1,Benzyl butyrate,DNEL (Derived No Effect Level): 4.84 mg/m³,DNEL (Derived No Effect Level): 2.78 mg/kg bw/day
+668fa6405b6a97b5cc2692b3,Benzyl cinnamate,DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa6405b6a97b5cc2692b5,Benzyldimethylamine,DNEL (Derived No Effect Level): 1.3 mg/m³,DNEL (Derived No Effect Level): 0.8 mg/kg bw/day
+668fa6405b6a97b5cc2692b7,Benzyltriethylammonium chloride,DNEL (Derived No Effect Level): 0.732 mg/m³,DNEL (Derived No Effect Level): 0.495 mg/kg bw/day
+668fa6405b6a97b5cc2692b9,Benzyltrimethylammonium hydroxide,DNEL (Derived No Effect Level): 0.14 mg/m³,DNEL (Derived No Effect Level): 0.042 mg/kg bw/day
+668fa6415b6a97b5cc2692bb,Biphenyl-2-ol,other toxicological threshold: 1.2 mg/m³,other toxicological threshold: 0.4 mg/kg bw/day
+668fa6415b6a97b5cc2692bd,Biphenyl-2-ylamine,DNEL (Derived No Effect Level): 1.552795031 mg/m³,DNEL (Derived No Effect Level): 1.785714286 mg/kg bw/day
+668fa6415b6a97b5cc2692bf,"Biphenyl-4,4'-diol",DNEL (Derived No Effect Level): 1.3 mg/m³,DNEL (Derived No Effect Level): 0.75 mg/kg bw/day
+668fa6415b6a97b5cc2692c1,Biphenyl,DNEL (Derived No Effect Level): 3.3 mg/m³,DNEL (Derived No Effect Level): 38 mg/kg bw/day
+668fa6565b6a97b5cc2692c3,Bis(2-ethylhexyl)amine,DNEL (Derived No Effect Level): 0.435 mg/m³,DNEL (Derived No Effect Level): 0.125 mg/kg bw/day
+668fa6565b6a97b5cc2692c5,Bis(isopropyl) thioperoxydicarbonate,DNEL (Derived No Effect Level): 0.518 mg/m³,DNEL (Derived No Effect Level): 0.35 mg/kg bw/day
+668fa6565b6a97b5cc2692c7,"Bis(α,α-dimethylbenzyl) peroxide",DNEL (Derived No Effect Level): 1.4 mg/m³,DNEL (Derived No Effect Level): 0.4 mg/kg bw/day
+668fa6575b6a97b5cc2692c9,Bisisopropyl peroxydicarbonate,DNEL (Derived No Effect Level): 1.3 mg/m³,DNEL (Derived No Effect Level): 3.75 mg/kg bw/day
+668fa6575b6a97b5cc2692cb,Bornan-2-one,DNEL (Derived No Effect Level): 4.3478 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa6575b6a97b5cc2692cd,Bromoacetic acid,DNEL (Derived No Effect Level): 0.16 mg/m³,DNEL (Derived No Effect Level): 0.05 mg/kg bw/day
+668fa6575b6a97b5cc2692cf,Bronopol,DNEL (Derived No Effect Level): 0.6 mg/m³,DNEL (Derived No Effect Level): 0.7 mg/kg bw/day
+668fa6585b6a97b5cc2692d1,Butan-1-ol,DNEL (Derived No Effect Level): 55.357 mg/m³,DNEL (Derived No Effect Level): 3.125 mg/kg bw/day
+668fa6585b6a97b5cc2692d3,Butan-2-ol,DNEL (Derived No Effect Level): 213 mg/m³,DNEL (Derived No Effect Level): 203 mg/kg bw/day
+668fa6585b6a97b5cc2692d5,Butanone,DNEL (Derived No Effect Level): 106 mg/m³,DNEL (Derived No Effect Level): 412 mg/kg bw/day
+668fa6585b6a97b5cc2692d7,Butyl methacrylate,DNEL (Derived No Effect Level): 66.5 mg/m³,DNEL (Derived No Effect Level): 3 mg/kg bw/day
+668fa6595b6a97b5cc2692d9,Butyric acid,DNEL (Derived No Effect Level): 9.15 mg/m³,DNEL (Derived No Effect Level): 0.66 mg/kg bw/day
+668fa6595b6a97b5cc2692db,Calcium di(acetate),DNEL (Derived No Effect Level): 498.85 mg/m³,DNEL (Derived No Effect Level): 5.8 mg/kg bw/day
+668fa6595b6a97b5cc2692dd,Camphene,DNEL (Derived No Effect Level): 54.3 mg/m³,DNEL (Derived No Effect Level): 0.1 mg/kg bw/day
+668fa6595b6a97b5cc2692df,Chlorobenzene,DNEL (Derived No Effect Level): 1 mg/m³,DNEL (Derived No Effect Level): 3 mg/kg bw/day
+668fa65a5b6a97b5cc2692e1,Chlorocresol,DNEL (Derived No Effect Level): 1.550724638 mg/m³,DNEL (Derived No Effect Level): 1.783333333 mg/kg bw/day
+668fa65a5b6a97b5cc2692e3,Chloroethane,DNEL (Derived No Effect Level): 6.7 mg/m³,DNEL (Derived No Effect Level): 1.79 mg/kg bw/day
+668fa66e5b6a97b5cc2692e5,Chlorphenesin,DNEL (Derived No Effect Level): 0.247 mg/m³,DNEL (Derived No Effect Level): 0.167 mg/kg bw/day
+668fa66f5b6a97b5cc2692e7,Cholesterol,DNEL (Derived No Effect Level): 39 mg/m³,DNEL (Derived No Effect Level): 10.7 mg/kg bw/day
+668fa66f5b6a97b5cc2692e9,Choline chloride,DNEL (Derived No Effect Level): 46.64 mg/m³,DNEL (Derived No Effect Level): 33.35 mg/kg bw/day
+668fa66f5b6a97b5cc2692eb,Choline hydrogen carbonate,DNEL (Derived No Effect Level): 49.39 mg/m³,DNEL (Derived No Effect Level): 35.5 mg/kg bw/day
+668fa66f5b6a97b5cc2692ed,Cinnamaldehyde,DNEL (Derived No Effect Level): 1.09 mg/m³,DNEL (Derived No Effect Level): 0.625 mg/kg bw/day
+668fa6705b6a97b5cc2692ef,Cinnamyl acetate,DNEL (Derived No Effect Level): 0.58 mg/m³,DNEL (Derived No Effect Level): 0.333 mg/kg bw/day
+668fa6705b6a97b5cc2692f1,Cinnamyl alcohol,DNEL (Derived No Effect Level): 0.465 mg/m³,DNEL (Derived No Effect Level): 0.268 mg/kg bw/day
+668fa6705b6a97b5cc2692f3,Citronellal,DNEL (Derived No Effect Level): 2.7 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa6715b6a97b5cc2692f5,Citronellol,DNEL (Derived No Effect Level): 47.8 mg/m³,DNEL (Derived No Effect Level): 196.4 mg/kg bw/day
+668fa6715b6a97b5cc2692f7,Citronellyl formate,DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6715b6a97b5cc2692f9,Coumarin,DNEL (Derived No Effect Level): 1.69 mg/m³,DNEL (Derived No Effect Level): 0.39 mg/kg bw/day
+668fa6715b6a97b5cc2692fb,Cumene,DNEL (Derived No Effect Level): 16.6 mg/m³,DNEL (Derived No Effect Level): 1.2 mg/kg bw/day
+668fa6725b6a97b5cc2692fd,Cyanuric acid,DNEL (Derived No Effect Level): 5.36 mg/m³,DNEL (Derived No Effect Level): 15.4 mg/kg bw/day
+668fa6725b6a97b5cc2692ff,"Cyclohex-1,4-ylenedimethanol",DNEL (Derived No Effect Level): 7.5 mg/m³,DNEL (Derived No Effect Level): 1.44 mg/kg bw/day
+668fa6725b6a97b5cc269301,Cyclohexane,DNEL (Derived No Effect Level): 206 mg/m³,DNEL (Derived No Effect Level): 1186 mg/kg bw/day
+668fa6725b6a97b5cc269303,Cyclohexanol,DNEL (Derived No Effect Level): 10 mg/m³,DNEL (Derived No Effect Level): 0.716 mg/kg bw/day
+668fa6735b6a97b5cc269305,Cyclohexanone oxime,DNEL (Derived No Effect Level): 1.6 µg/m³,DNEL (Derived No Effect Level): 8.9 µg/kg bw/day
+668fa6735b6a97b5cc269307,Cyclohexanone,DNEL (Derived No Effect Level): 2.55 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa6875b6a97b5cc269309,Cyclohexylamine,DNEL (Derived No Effect Level): 0.6 mg/m³,DNEL (Derived No Effect Level): 0.2 mg/kg bw/day
+668fa6885b6a97b5cc26930b,Cysteine hydrochloride,DNEL (Derived No Effect Level): 0.9 mg/m³,DNEL (Derived No Effect Level): 0.13 mg/kg bw/day
+668fa6885b6a97b5cc26930d,Cytidine 3'-(dihydrogen phosphate),DNEL (Derived No Effect Level): 2.878 mg/m³,DNEL (Derived No Effect Level): 1.655 mg/kg bw/day
+668fa6885b6a97b5cc26930f,"D-glucono-1,5-lactone",DNEL (Derived No Effect Level): 14.6 mg/m³,DNEL (Derived No Effect Level): 5.9 mg/kg bw/day
+668fa6885b6a97b5cc269311,Dexpanthenol,DNEL (Derived No Effect Level): 43.47 mg/m³,DNEL (Derived No Effect Level): 25 mg/kg bw/day
+668fa6895b6a97b5cc269313,Di(morpholin-4-yl) disulphide,DNEL (Derived No Effect Level): 0.03 mg/m³,DNEL (Derived No Effect Level): 0.012 mg/kg bw/day
+668fa6895b6a97b5cc269315,Dibenzyl ether,DNEL (Derived No Effect Level): 10.8 mg/m³,DNEL (Derived No Effect Level): 3.1 mg/kg bw/day
+668fa6895b6a97b5cc269317,Dibromomethane,DNEL (Derived No Effect Level): 1.5 mg/m³,DNEL (Derived No Effect Level): 0.375 mg/kg bw/day
+668fa68a5b6a97b5cc269319,Dibutyl hydrogen phosphate,DNEL (Derived No Effect Level): 0.77 mg/m³,DNEL (Derived No Effect Level): 0.22 mg/kg bw/day
+668fa68e5b6a97b5cc26931b,Dibutyl phthalate,DNEL (Derived No Effect Level): 0.02 mg/m³,DNEL (Derived No Effect Level): 0.07 mg/kg bw/day
+668fa68e5b6a97b5cc26931d,Dibutyltin dilaurate,DNEL (Derived No Effect Level): 0.0046 mg/m³,DNEL (Derived No Effect Level): 0.16 mg/kg bw/day
+668fa6935b6a97b5cc26931f,Dibutyltin maleate,DNEL (Derived No Effect Level): 0.003 mg/m³,DNEL (Derived No Effect Level): 0.08 mg/kg bw/day
+668fa6935b6a97b5cc269321,Dichloroacetic acid,DNEL (Derived No Effect Level): 0.02 mg/m³,DNEL (Derived No Effect Level): 0.014 mg/kg bw/day
+668fa6935b6a97b5cc269323,dichloromethane; methylene chloride,DNEL (Derived No Effect Level): 44 mg/m³,DNEL (Derived No Effect Level): 5.82 mg/kg bw/day
+668fa6985b6a97b5cc269325,Dicyclohexyl phthalate,DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa6985b6a97b5cc269327,Diethoxy(dimethyl)silane,DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa6985b6a97b5cc269329,Diethyl carbonate,DNEL (Derived No Effect Level): 4.4 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa6985b6a97b5cc26932b,Diethyl ether,DNEL (Derived No Effect Level): 54.5 mg/m³,DNEL (Derived No Effect Level): 15.6 mg/kg bw/day
+668fa69d5b6a97b5cc26932d,Diethyl ethylphosphonate,DNEL (Derived No Effect Level): 0.4348 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa69d5b6a97b5cc26932f,Diethyl malonate,DNEL (Derived No Effect Level): 2.106 mg/m³,DNEL (Derived No Effect Level): 0.607 mg/kg bw/day
+668fa6b15b6a97b5cc269331,Diethyl oxalate,DNEL (Derived No Effect Level): 0.06 mg/m³,DNEL (Derived No Effect Level): 0.033 mg/kg bw/day
+668fa6b25b6a97b5cc269333,Diethyl phthalate,DNEL (Derived No Effect Level): 2.6 mg/m³,DNEL (Derived No Effect Level): 7.5 mg/kg bw/day
+668fa6b25b6a97b5cc269335,Diiodohydroxyquinoline,DNEL (Derived No Effect Level): 5217.391304 mg/m³,DNEL (Derived No Effect Level): 6000 mg/kg bw/day
+668fa6b25b6a97b5cc269337,Diisopropyl ether,DNEL (Derived No Effect Level): 151 mg/m³,DNEL (Derived No Effect Level): 43.1 mg/kg bw/day
+668fa6b25b6a97b5cc269339,Dimethoxymethane,DNEL (Derived No Effect Level): 31.5 mg/m³,DNEL (Derived No Effect Level): 18.1 mg/kg bw/day
+668fa6b35b6a97b5cc26933b,"Dimethyl cyclohexane-1,4-dicarboxylate",DNEL (Derived No Effect Level): 4.35 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa6b35b6a97b5cc26933d,Dimethyl sebacate,DNEL (Derived No Effect Level): 14.8 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa6b35b6a97b5cc26933f,Dimethyl succinate,DNEL (Derived No Effect Level): 1.19 mg/m³,DNEL (Derived No Effect Level): 0.342 mg/kg bw/day
+668fa6b45b6a97b5cc269341,Dimethyl sulfoxide,DNEL (Derived No Effect Level): 56 mg/m³,DNEL (Derived No Effect Level): 178 mg/kg bw/day
+668fa6b85b6a97b5cc269343,Dimethyl sulphone,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa6b85b6a97b5cc269345,Dinoseb,DNEL (Derived No Effect Level): 0.01 mg/m³,DNEL (Derived No Effect Level): 0.003 mg/kg bw/day
+668fa6b95b6a97b5cc269347,Diphenylacetonitrile,DNEL (Derived No Effect Level): 72.5 µg/m³,DNEL (Derived No Effect Level): 41.7 µg/kg bw/day
+668fa6cd5b6a97b5cc269349,Diquat dibromide,DNEL (Derived No Effect Level): 0.0019 mg/m³,DNEL (Derived No Effect Level): 0.053 mg/kg bw/day
+668fa6ce5b6a97b5cc26934b,Disulfiram,DNEL (Derived No Effect Level): 52 µg/m³,DNEL (Derived No Effect Level): 1.028 mg/kg bw/day
+668fa6ce5b6a97b5cc26934d,Ethanol,DNEL (Derived No Effect Level): 114 mg/m³,DNEL (Derived No Effect Level): 206 mg/kg bw/day
+668fa6ce5b6a97b5cc26934f,Ethoxyquin,DNEL (Derived No Effect Level): 0.56 mg/m³,DNEL (Derived No Effect Level): 0.16 mg/kg bw/day
+668fa6ce5b6a97b5cc269351,"Ethyl 2,3-epoxy-3-phenylbutyrate",DNEL (Derived No Effect Level): 2.17 mg/m³,DNEL (Derived No Effect Level): 1.25 mg/kg bw/day
+668fa6cf5b6a97b5cc269353,Ethyl 2-naphthyl ether,DNEL (Derived No Effect Level): 42.2 µg/m³,DNEL (Derived No Effect Level): 28.5 µg/kg bw/day
+668fa6d35b6a97b5cc269355,Ethyl butyrate,DNEL (Derived No Effect Level): 7.4 mg/m³,DNEL (Derived No Effect Level): 0.833 mg/kg bw/day
+668fa6d35b6a97b5cc269357,Ethyl cinnamate,DNEL (Derived No Effect Level): 1.286 mg/m³,DNEL (Derived No Effect Level): 0.7395 mg/kg bw/day
+668fa6e85b6a97b5cc269359,Ethyl formate,DNEL (Derived No Effect Level): 2.76 mg/m³,DNEL (Derived No Effect Level): 7.89 mg/kg bw/day
+668fa6e85b6a97b5cc26935b,Ethyl lactate,DNEL (Derived No Effect Level): 1.7391 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa6e85b6a97b5cc26935d,Ethyl methacrylate,DNEL (Derived No Effect Level): 76 mg/m³,DNEL (Derived No Effect Level): 6.5 mg/kg bw/day
+668fa6e85b6a97b5cc26935f,Ethyl phenylacetate,DNEL (Derived No Effect Level): 0.74 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa6e95b6a97b5cc269361,Ethylene carbonate,DNEL (Derived No Effect Level): 3.7 mg/m³,DNEL (Derived No Effect Level): 2.1 mg/kg bw/day
+668fa6e95b6a97b5cc269363,Ethylene dibenzoate,DNEL (Derived No Effect Level): 17.4 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa6e95b6a97b5cc269365,Ethylene dimethacrylate,DNEL (Derived No Effect Level): 1.45 mg/m³,DNEL (Derived No Effect Level): 0.83 mg/kg bw/day
+668fa6fe5b6a97b5cc269367,Ethylidynetrimethanol,DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa6fe5b6a97b5cc269369,Eugenol,DNEL (Derived No Effect Level): 5.22 mg/m³,DNEL (Derived No Effect Level): 3 mg/kg bw/day
+668fa6ff5b6a97b5cc26936b,Fenuron,DNEL (Derived No Effect Level): 0.348 mg/m³,DNEL (Derived No Effect Level): 0.2 mg/kg bw/day
+668fa6ff5b6a97b5cc26936d,Ferrocene,DNEL (Derived No Effect Level): 0.005 mg/m³,DNEL (Derived No Effect Level): 0.013 mg/kg bw/day
+668fa7035b6a97b5cc26936f,Formaldehyde,DNEL (Derived No Effect Level): 3.2 mg/m³,DNEL (Derived No Effect Level): 102 mg/kg bw/day
+668fa7085b6a97b5cc269371,Fumaric acid,DNEL (Derived No Effect Level): 10.43 mg/m³,DNEL (Derived No Effect Level): 6 mg/kg bw/day
+668fa70c5b6a97b5cc269373,Furfuryl alcohol,DNEL (Derived No Effect Level): 9.3 mg/m³,DNEL (Derived No Effect Level): 2.4 mg/kg bw/day
+668fa7105b6a97b5cc269375,Geraniol,DNEL (Derived No Effect Level): 3.5 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa7155b6a97b5cc269377,Geranyl acetate,DNEL (Derived No Effect Level): 15.4 mg/m³,DNEL (Derived No Effect Level): 17.75 mg/kg bw/day
+668fa7155b6a97b5cc269379,Glutamic acid,DNEL (Derived No Effect Level): 3 mg/m³,DNEL (Derived No Effect Level): 107 mg/kg bw/day
+668fa7295b6a97b5cc26937b,Glutaric acid,DNEL (Derived No Effect Level): 2.84 mg/m³,DNEL (Derived No Effect Level): 1.63 mg/kg bw/day
+668fa72a5b6a97b5cc26937d,Glycollic acid,DNEL (Derived No Effect Level): 2.61 mg/m³,DNEL (Derived No Effect Level): 28.85 mg/kg bw/day
+668fa72a5b6a97b5cc26937f,glyoxal … %; ethandial … %,DNEL (Derived No Effect Level): 0.44 mg/m³,DNEL (Derived No Effect Level): 2.3 mg/kg bw/day
+668fa73f5b6a97b5cc269381,Guanidinium chloride,DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa73f5b6a97b5cc269383,Heptan-2-one,DNEL (Derived No Effect Level): 84.31 mg/m³,DNEL (Derived No Effect Level): 23.32 mg/kg bw/day
+668fa73f5b6a97b5cc269385,Heptanoic acid,DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa7405b6a97b5cc269387,"Hexa-2,4-dienoic acid",DNEL (Derived No Effect Level): 52.17 mg/m³,DNEL (Derived No Effect Level): 20 mg/kg bw/day
+668fa7445b6a97b5cc269389,Hexachlorocyclopentadiene,DNEL (Derived No Effect Level): 0.0084 mg/m³,DNEL (Derived No Effect Level): 0.0139 mg/kg bw/day
+668fa7485b6a97b5cc26938b,"Hexahydro-1,3,5-trimethyl-1,3,5-triazine",DNEL (Derived No Effect Level): 0.261 mg/m³,DNEL (Derived No Effect Level): 0.15 mg/kg bw/day
+668fa74d5b6a97b5cc26938d,Hexamethyldisiloxane,DNEL (Derived No Effect Level): 13.3 mg/m³,DNEL (Derived No Effect Level): 167 mg/kg bw/day
+668fa7515b6a97b5cc26938f,Hexanal,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa7515b6a97b5cc269391,Histidine,DNEL (Derived No Effect Level): 20.56 mg/m³,DNEL (Derived No Effect Level): 118.2 mg/kg bw/day
+668fa7665b6a97b5cc269393,Hydrogen cyanide,DNEL (Derived No Effect Level): 0.13 mg/m³,DNEL (Derived No Effect Level): 0.018 mg/kg bw/day
+668fa7665b6a97b5cc269395,Hyoscine,DNEL (Derived No Effect Level): 87 µg/m³,DNEL (Derived No Effect Level): 12.3 µg/kg bw/day
+668fa7665b6a97b5cc269397,Imidazolidine-2-thione,DNEL (Derived No Effect Level): 0.01 mg/m³,DNEL (Derived No Effect Level): 0.85 mg/kg bw/day
+668fa7675b6a97b5cc269399,Isobutyl acetate,DNEL (Derived No Effect Level): 35.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa7685b6a97b5cc26939b,Isobutyl methacrylate,DNEL (Derived No Effect Level): 66.5 mg/m³,DNEL (Derived No Effect Level): 3 mg/kg bw/day
+668fa7685b6a97b5cc26939d,Isobutyric acid,DNEL (Derived No Effect Level): 92 mg/m³,DNEL (Derived No Effect Level): 1.88 mg/kg bw/day
+668fa7685b6a97b5cc26939f,Isobutyric anhydride,DNEL (Derived No Effect Level): 92 mg/m³,DNEL (Derived No Effect Level): 1.88 mg/kg bw/day
+668fa7695b6a97b5cc2693a1,Isophthaloyl dichloride,DNEL (Derived No Effect Level): 0.97 mg/m³,DNEL (Derived No Effect Level): 2.24 mg/kg bw/day
+668fa77f5b6a97b5cc2693a3,Isoprene,DNEL (Derived No Effect Level): 2 mg/m³,DNEL (Derived No Effect Level): 9.5 mg/kg bw/day
+668fa77f5b6a97b5cc2693a5,Isopropyl acetate,DNEL (Derived No Effect Level): 168 mg/m³,DNEL (Derived No Effect Level): 16 mg/kg bw/day
+668fa77f5b6a97b5cc2693a7,Isopropyl myristate,DNEL (Derived No Effect Level): 5.79 mg/m³,DNEL (Derived No Effect Level): 16 mg/kg bw/day
+668fa7845b6a97b5cc2693a9,L-alanine,DNEL (Derived No Effect Level): 55.8 mg/m³,DNEL (Derived No Effect Level): 160.4 mg/kg bw/day
+668fa7845b6a97b5cc2693ab,L-isoleucine,DNEL (Derived No Effect Level): 13.04 mg/m³,DNEL (Derived No Effect Level): 75 mg/kg bw/day
+668fa7845b6a97b5cc2693ad,L-leucine,DNEL (Derived No Effect Level): 72.4 mg/m³,DNEL (Derived No Effect Level): 416 mg/kg bw/day
+668fa7845b6a97b5cc2693af,L-methionine,DNEL (Derived No Effect Level): 27.2 mg/m³,DNEL (Derived No Effect Level): 78.25 mg/kg bw/day
+668fa7865b6a97b5cc2693b1,L-serine,DNEL (Derived No Effect Level): 130 mg/m³,DNEL (Derived No Effect Level): 375 mg/kg bw/day
+668fa79a5b6a97b5cc2693b3,L-threonine,DNEL (Derived No Effect Level): 39 mg/m³,DNEL (Derived No Effect Level): 112.5 mg/kg bw/day
+668fa79e5b6a97b5cc2693b5,L-tryptophan,DNEL (Derived No Effect Level): 164 mg/m³,DNEL (Derived No Effect Level): 471 mg/kg bw/day
+668fa79f5b6a97b5cc2693b7,L-valine,DNEL (Derived No Effect Level): 27.3 mg/m³,DNEL (Derived No Effect Level): 78.5 mg/kg bw/day
+668fa79f5b6a97b5cc2693b9,Levoglutamide,DNEL (Derived No Effect Level): 34.2 mg/m³,DNEL (Derived No Effect Level): 98.3 mg/kg bw/day
+668fa7a35b6a97b5cc2693bb,Linalool,DNEL (Derived No Effect Level): 4.33 mg/m³,DNEL (Derived No Effect Level): 1.25 mg/kg bw/day
+668fa7a35b6a97b5cc2693bd,"m-bis(2,3-epoxypropoxy)benzene",DNEL (Derived No Effect Level): 69.6 µg/m³,DNEL (Derived No Effect Level): 1.63 µg/kg bw/day
+668fa7a45b6a97b5cc2693bf,m-cresol,DNEL (Derived No Effect Level): 0.43 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa7a45b6a97b5cc2693c1,m-phenylene di(acetate),DNEL (Derived No Effect Level): 0.55 mg/m³,DNEL (Derived No Effect Level): 0.95 mg/kg bw/day
+668fa7a45b6a97b5cc2693c3,m-phenylenediamine,DNEL (Derived No Effect Level): 0.03 mg/m³,DNEL (Derived No Effect Level): 0.06 mg/kg bw/day
+668fa7a65b6a97b5cc2693c5,m-toluic acid,DNEL (Derived No Effect Level): 0.29 mg/m³,DNEL (Derived No Effect Level): 0.33 mg/kg bw/day
+668fa7ae5b6a97b5cc2693c7,m-toluidine,DNEL (Derived No Effect Level): 0.029 mg/m³,DNEL (Derived No Effect Level): 0.016 mg/kg bw/day
+668fa7b35b6a97b5cc2693c9,m-xylene,DNEL (Derived No Effect Level): 65.3 mg/m³,DNEL (Derived No Effect Level): 125 mg/kg bw/day
+668fa7b35b6a97b5cc2693cb,Maleic anhydride,DNEL (Derived No Effect Level): 0.05 mg/m³,DNEL (Derived No Effect Level): 0.1 mg/kg bw/day
+668fa7b35b6a97b5cc2693cd,Melamine,DNEL (Derived No Effect Level): 1.5 mg/m³,DNEL (Derived No Effect Level): 4.2 mg/kg bw/day
+668fa7b85b6a97b5cc2693cf,Menthol,DNEL (Derived No Effect Level): 8.17 mg/m³,DNEL (Derived No Effect Level): 4.7 mg/kg bw/day
+668fa7b85b6a97b5cc2693d1,Menthyl acetate,DNEL (Derived No Effect Level): 8.3 mg/m³,DNEL (Derived No Effect Level): 4.8 mg/kg bw/day
+668fa7b85b6a97b5cc2693d3,Mercaptoacetic acid,DNEL (Derived No Effect Level): 0.28 mg/m³,DNEL (Derived No Effect Level): 0.8 mg/kg bw/day
+668fa7bd5b6a97b5cc2693d5,Mesitylene,DNEL (Derived No Effect Level): 29.4 mg/m³,DNEL (Derived No Effect Level): 9512 mg/kg bw/day
+668fa7be5b6a97b5cc2693d7,Methacrylic acid,DNEL (Derived No Effect Level): 11.7 mg/m³,DNEL (Derived No Effect Level): 5.35 mg/kg bw/day
+668fa7d25b6a97b5cc2693d9,Methanesulphonic acid,DNEL (Derived No Effect Level): 1.44 mg/m³,DNEL (Derived No Effect Level): 8.33 mg/kg bw/day
+668fa7d35b6a97b5cc2693db,Methanol,DNEL (Derived No Effect Level): 26 mg/m³,DNEL (Derived No Effect Level): 4 mg/kg bw/day
+668fa7d35b6a97b5cc2693dd,Methenamine,DNEL (Derived No Effect Level): 1.2 mg/m³,DNEL (Derived No Effect Level): 3.2 mg/kg bw/day
+668fa7d75b6a97b5cc2693df,Methyl 2-naphthyl ether,DNEL (Derived No Effect Level): 1.09 mg/m³,DNEL (Derived No Effect Level): 0.625 mg/kg bw/day
+668fa7d85b6a97b5cc2693e1,Methyl 4-hydroxybenzoate,DNEL (Derived No Effect Level): 43.45 mg/m³,DNEL (Derived No Effect Level): 14.7 mg/kg bw/day
+668fa7d95b6a97b5cc2693e3,Methyl acetate,DNEL (Derived No Effect Level): 64 mg/m³,DNEL (Derived No Effect Level): 21.5 mg/kg bw/day
+668fa7d95b6a97b5cc2693e5,Methyl acetoacetate,DNEL (Derived No Effect Level): 6.25 mg/m³,DNEL (Derived No Effect Level): 4.167 mg/kg bw/day
+668fa7d95b6a97b5cc2693e7,Methyl benzoate,DNEL (Derived No Effect Level): 2.61 mg/m³,DNEL (Derived No Effect Level): 1.5 mg/kg bw/day
+668fa7da5b6a97b5cc2693e9,Methyl cinnamate,DNEL (Derived No Effect Level): 6.96 mg/m³,DNEL (Derived No Effect Level): 2 mg/kg bw/day
+668fa7da5b6a97b5cc2693eb,Methyl formate,DNEL (Derived No Effect Level): 14.29 mg/m³,DNEL (Derived No Effect Level): 2.02 mg/kg bw/day
+668fa7da5b6a97b5cc2693ed,Methyl methacrylate,DNEL (Derived No Effect Level): 74.3 mg/m³,DNEL (Derived No Effect Level): 8.2 mg/kg bw/day
+668fa7db5b6a97b5cc2693ef,Methyl N-methylanthranilate,DNEL (Derived No Effect Level): 2.12 mg/m³,DNEL (Derived No Effect Level): 1.22 mg/kg bw/day
+668fa7db5b6a97b5cc2693f1,Methyl phenylacetate,DNEL (Derived No Effect Level): 0.74 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa7db5b6a97b5cc2693f3,Methyl phenylacetate,DNEL (Derived No Effect Level): 4.84 mg/m³,DNEL (Derived No Effect Level): 2.78 mg/kg bw/day
+668fa7db5b6a97b5cc2693f5,Methyl α-D-glucoside,DNEL (Derived No Effect Level): 1.45 mg/m³,DNEL (Derived No Effect Level): 0.833 mg/kg bw/day
+668fa7dc5b6a97b5cc2693f7,Methylcyclohexane,DNEL (Derived No Effect Level): 16 mg/m³,DNEL (Derived No Effect Level): 0.8 mg/kg bw/day
+668fa7f05b6a97b5cc2693f9,Methylcyclopentane,DNEL (Derived No Effect Level): 1131 mg/m³,DNEL (Derived No Effect Level): 1377 mg/kg bw/day
+668fa7f05b6a97b5cc2693fb,"N,N'-di-sec-butyl-p-phenylenediamine",DNEL (Derived No Effect Level): 0.0087 mg/m³,DNEL (Derived No Effect Level): 0.005 mg/kg bw/day
+668fa7f15b6a97b5cc2693fd,"N,N'-ethane-1,2-diylbisoleamide",DNEL (Derived No Effect Level): 12.7 mg/m³,DNEL (Derived No Effect Level): 3.7 mg/kg bw/day
+668fa7f15b6a97b5cc2693ff,"N,N'-ethylenedi(stearamide)",DNEL (Derived No Effect Level): 0.725 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa7f15b6a97b5cc269401,"N,N,N',N'-tetramethylethylenediamine",DNEL (Derived No Effect Level): 0.1 mg/m³,DNEL (Derived No Effect Level): 0.05 mg/kg bw/day
+668fa7f25b6a97b5cc269403,"N,N-diethylaniline",DNEL (Derived No Effect Level): 11 µg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa7f25b6a97b5cc269405,"N,N-dimethyl-p-toluidine",DNEL (Derived No Effect Level): 22.7 µg/m³,DNEL (Derived No Effect Level): 0.223 mg/kg bw/day
+668fa7f25b6a97b5cc269407,"N-(4-amino-9,10-dihydro-3-methoxy-9,10-dioxo-1-anthryl)-4-methylbenzenesulphonamide",DNEL (Derived No Effect Level): 0.29 mg/m³,DNEL (Derived No Effect Level): 4.17 mg/kg bw/day
+668fa7f25b6a97b5cc269409,N-(4-aminophenyl)aniline,DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 2 mg/kg bw/day
+668fa7f35b6a97b5cc26940b,N-1-naphthylaniline,DNEL (Derived No Effect Level): 0.015 mg/m³,DNEL (Derived No Effect Level): 0.008 mg/kg bw/day
+668fa8075b6a97b5cc26940d,N-cyclohexylbenzothiazole-2-sulfenamide,DNEL (Derived No Effect Level): 2.8 mg/m³,DNEL (Derived No Effect Level): 33 mg/kg bw/day
+668fa8085b6a97b5cc26940f,N-hexane,DNEL (Derived No Effect Level): 16 mg/m³,DNEL (Derived No Effect Level): 5.3 mg/kg bw/day
+668fa8085b6a97b5cc269411,N-isopropyl-N'-phenyl-p-phenylenediamine,DNEL (Derived No Effect Level): 0.2 mg/m³,DNEL (Derived No Effect Level): 0.06 mg/kg bw/day
+668fa8085b6a97b5cc269413,N-lauroylsarcosine,DNEL (Derived No Effect Level): 34.783 mg/m³,DNEL (Derived No Effect Level): 50 mg/kg bw/day
+668fa8095b6a97b5cc269415,N-methylaniline,DNEL (Derived No Effect Level): 1.32 µg/m³,DNEL (Derived No Effect Level): 16 µg/kg bw/day
+668fa8095b6a97b5cc269417,N-methylformanilide,DNEL (Derived No Effect Level): 1.96 mg/m³,DNEL (Derived No Effect Level): 1.13 mg/kg bw/day
+668fa8095b6a97b5cc269419,N-tert-butylacrylamide,DNEL (Derived No Effect Level): 0.363 mg/m³,DNEL (Derived No Effect Level): 0.208 mg/kg bw/day
+668fa8095b6a97b5cc26941b,N-tert-butylbenzothiazole-2-sulphenamide,DNEL (Derived No Effect Level): 3.5 mg/m³,DNEL (Derived No Effect Level): 33 mg/kg bw/day
+668fa80a5b6a97b5cc26941d,Nerol,DNEL (Derived No Effect Level): 1.09 mg/m³,DNEL (Derived No Effect Level): 0.62 mg/kg bw/day
+668fa80a5b6a97b5cc26941f,Nicotinamide,DNEL (Derived No Effect Level): 21.88 mg/m³,DNEL (Derived No Effect Level): 12.5 mg/kg bw/day
+668fa80a5b6a97b5cc269421,Nicotine dihydrogen ditartrate,DNEL (Derived No Effect Level): 14.3 µg/m³,DNEL (Derived No Effect Level): 8.22 µg/kg bw/day
+668fa80a5b6a97b5cc269423,Nicotine,DNEL (Derived No Effect Level): 5.56 µg/m³,DNEL (Derived No Effect Level): 1.597 µg/kg bw/day
+668fa80b5b6a97b5cc269425,Nicotinic acid,DNEL (Derived No Effect Level): 0.25 mg/m³,DNEL (Derived No Effect Level): 0.14 mg/kg bw/day
+668fa80b5b6a97b5cc269427,Nitroethane,DNEL (Derived No Effect Level): 2 mg/m³,DNEL (Derived No Effect Level): 210 mg/kg bw/day
+668fa80b5b6a97b5cc269429,Nitromethane,DNEL (Derived No Effect Level): 4 mg/m³,DNEL (Derived No Effect Level): 250 mg/kg bw/day
+668fa80c5b6a97b5cc26942b,Nitrosodiphenylamine,DNEL (Derived No Effect Level): 0.15 mg/m³,DNEL (Derived No Effect Level): 0.08 mg/kg bw/day
+668fa80c5b6a97b5cc26942d,Nonan-4-olide,DNEL (Derived No Effect Level): 3.97 mg/m³,DNEL (Derived No Effect Level): 2.29 mg/kg bw/day
+668fa8215b6a97b5cc26942f,Nα-acetyl-DL-tryptophan,DNEL (Derived No Effect Level): 72.5 µg/m³,DNEL (Derived No Effect Level): 20.8 mg/kg bw/day
+668fa8215b6a97b5cc269431,O-acetylsalicylic acid,DNEL (Derived No Effect Level): 0.475 mg/m³,DNEL (Derived No Effect Level): 1.25 mg/kg bw/day
+668fa8215b6a97b5cc269433,o-cresol,DNEL (Derived No Effect Level): 0.43 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa8225b6a97b5cc269435,o-xylene,DNEL (Derived No Effect Level): 65.3 mg/m³,DNEL (Derived No Effect Level): 125 mg/kg bw/day
+668fa8225b6a97b5cc269437,Octamethyltrisiloxane,DNEL (Derived No Effect Level): 19 mg/m³,DNEL (Derived No Effect Level): 556.5 mg/kg bw/day
+668fa8225b6a97b5cc269439,Octan-2-one,DNEL (Derived No Effect Level): 281 mg/m³,DNEL (Derived No Effect Level): 0.357 mg/kg bw/day
+668fa8225b6a97b5cc26943b,Octan-4-olide,DNEL (Derived No Effect Level): 1.45 mg/m³,DNEL (Derived No Effect Level): 0.833 mg/kg bw/day
+668fa8235b6a97b5cc26943d,"p-(1,1-dimethylpropyl)phenol",DNEL (Derived No Effect Level): 0.61 mg/m³,DNEL (Derived No Effect Level): 0.13 mg/kg bw/day
+668fa8235b6a97b5cc26943f,p-benzoquinone dioxime,DNEL (Derived No Effect Level): 0.0109 mg/m³,DNEL (Derived No Effect Level): 0.0063 mg/kg bw/day
+668fa8235b6a97b5cc269441,p-cresol,DNEL (Derived No Effect Level): 0.43 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa8245b6a97b5cc269443,p-cymene,DNEL (Derived No Effect Level): 0.22 mg/m³,DNEL (Derived No Effect Level): 0.125 mg/kg bw/day
+668fa8245b6a97b5cc269445,"p-mentha-1,3-diene",DNEL (Derived No Effect Level): 0.724638 mg/m³,DNEL (Derived No Effect Level): 0.4166666 mg/kg bw/day
+668fa8245b6a97b5cc269447,"p-mentha-1,4-diene",DNEL (Derived No Effect Level): 0.725 mg/m³,DNEL (Derived No Effect Level): 0.417 mg/kg bw/day
+668fa8245b6a97b5cc269449,p-methoxybenzyl acetate,DNEL (Derived No Effect Level): 0.37 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa8395b6a97b5cc26944b,p-phenylenediamine,DNEL (Derived No Effect Level): 0.06 mg/m³,DNEL (Derived No Effect Level): 0.16 mg/kg bw/day
+668fa8395b6a97b5cc26944d,p-xylene,DNEL (Derived No Effect Level): 65.3 mg/m³,DNEL (Derived No Effect Level): 125 mg/kg bw/day
+668fa8395b6a97b5cc26944f,Palmitic acid,DNEL (Derived No Effect Level): 4.348 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa83a5b6a97b5cc269451,Paracetamol,DNEL (Derived No Effect Level): 2.960662526 mg/m³,DNEL (Derived No Effect Level): 3.404761905 mg/kg bw/day
+668fa83a5b6a97b5cc269453,Pentan-2-one,DNEL (Derived No Effect Level): 52.84 mg/m³,DNEL (Derived No Effect Level): 15.19 mg/kg bw/day
+668fa83a5b6a97b5cc269455,Pentane,DNEL (Derived No Effect Level): 643 mg/m³,DNEL (Derived No Effect Level): 214 mg/kg bw/day
+668fa83a5b6a97b5cc269457,Phenethyl acetate,DNEL (Derived No Effect Level): 1.61 mg/m³,DNEL (Derived No Effect Level): 1.14 mg/kg bw/day
+668fa83b5b6a97b5cc269459,Phenethyl benzoate,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa83b5b6a97b5cc26945b,Phenethyl butyrate,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa83b5b6a97b5cc26945d,Phenethyl isobutyrate,DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa83c5b6a97b5cc26945f,Phenethyl phenylacetate,DNEL (Derived No Effect Level): 0.74 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa83c5b6a97b5cc269461,Phenethyl phenylacetate,DNEL (Derived No Effect Level): 1.45 mg/m³,DNEL (Derived No Effect Level): 0.833 mg/kg bw/day
+668fa83c5b6a97b5cc269463,Phenethyl salicylate,DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa83c5b6a97b5cc269465,Phenetole,DNEL (Derived No Effect Level): 9.057971014 mg/m³,DNEL (Derived No Effect Level): 10.41666667 mg/kg bw/day
+668fa8515b6a97b5cc269467,Phenol,DNEL (Derived No Effect Level): 0.452 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa8515b6a97b5cc269469,Phenothiazine,DNEL (Derived No Effect Level): 0.13 mg/m³,DNEL (Derived No Effect Level): 0.08 mg/kg bw/day
+668fa8515b6a97b5cc26946b,Phenylacetic acid,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 1.67 mg/kg bw/day
+668fa8525b6a97b5cc26946d,Phloroglucinol,DNEL (Derived No Effect Level): 0.87 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa8525b6a97b5cc26946f,Phthalic acid,DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa8525b6a97b5cc269471,Phthalic anhydride,DNEL (Derived No Effect Level): 8.7 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa8535b6a97b5cc269473,Phthalylsulfathiazole,DNEL (Derived No Effect Level): 0.354089333 mg/m³,DNEL (Derived No Effect Level): 0.307903768 mg/kg bw/day
+668fa8535b6a97b5cc269475,Pidolic acid,DNEL (Derived No Effect Level): 1.5 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa8535b6a97b5cc269477,Pin-2(3)-ene,DNEL (Derived No Effect Level): 0.674 mg/m³,DNEL (Derived No Effect Level): 0.225 mg/kg bw/day
+668fa8535b6a97b5cc269479,Pivalic acid,DNEL (Derived No Effect Level): 220 µg/m³,DNEL (Derived No Effect Level): 62.5 µg/kg bw/day
+668fa8545b6a97b5cc26947b,Propan-2-ol,DNEL (Derived No Effect Level): 89 mg/m³,DNEL (Derived No Effect Level): 319 mg/kg bw/day
+668fa8545b6a97b5cc26947d,Propane-2-thiol,DNEL (Derived No Effect Level): 1.31 mg/m³,DNEL (Derived No Effect Level): 0.75 mg/kg bw/day
+668fa8545b6a97b5cc26947f,Propionic acid,DNEL (Derived No Effect Level): 18.3 mg/m³,DNEL (Derived No Effect Level): 10.5 mg/kg bw/day
+668fa8545b6a97b5cc269481,Propyl 4-hydroxybenzoate,DNEL (Derived No Effect Level): 43.47 mg/m³,DNEL (Derived No Effect Level): 338 mg/kg bw/day
+668fa8555b6a97b5cc269483,Propylene carbonate,DNEL (Derived No Effect Level): 17.4 mg/m³,DNEL (Derived No Effect Level): 10 mg/kg bw/day
+668fa8555b6a97b5cc269485,Propylidynetrimethanol,DNEL (Derived No Effect Level): 0.58 mg/m³,DNEL (Derived No Effect Level): 0.34 mg/kg bw/day
+668fa8695b6a97b5cc269487,Pyridine,DNEL (Derived No Effect Level): 0.6 mg/m³,DNEL (Derived No Effect Level): 0.07 mg/kg bw/day
+668fa86a5b6a97b5cc269489,Pyridoxine hydrochloride,DNEL (Derived No Effect Level): 2.8 mg/m³,DNEL (Derived No Effect Level): 0.35 mg/kg bw/day
+668fa86a5b6a97b5cc26948b,Salicylaldehyde,DNEL (Derived No Effect Level): 29 µg/m³,DNEL (Derived No Effect Level): 16.7 µg/kg bw/day
+668fa86a5b6a97b5cc26948d,Salicylic acid,DNEL (Derived No Effect Level): 4 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa86b5b6a97b5cc26948f,Sodium calcium edetate,DNEL (Derived No Effect Level): 7.5 mg/m³,DNEL (Derived No Effect Level): 31250 mg/kg bw/day
+668fa86b5b6a97b5cc269491,Sodium salicylate,DNEL (Derived No Effect Level): 0.232 mg/m³,DNEL (Derived No Effect Level): 0.133 mg/kg bw/day
+668fa86b5b6a97b5cc269493,Stearic acid,DNEL (Derived No Effect Level): 4.348 mg/m³,DNEL (Derived No Effect Level): 5 mg/kg bw/day
+668fa86b5b6a97b5cc269495,Styrene,DNEL (Derived No Effect Level): 10.2 mg/m³,DNEL (Derived No Effect Level): 343 mg/kg bw/day
+668fa86c5b6a97b5cc269497,Succinic acid,DNEL (Derived No Effect Level): 10 mg/m³,DNEL (Derived No Effect Level): 43 mg/kg bw/day
+668fa86c5b6a97b5cc269499,Symclosene,DNEL (Derived No Effect Level): 5.36 mg/m³,DNEL (Derived No Effect Level): 15.4 mg/kg bw/day
+668fa86c5b6a97b5cc26949b,Terephthalic acid,DNEL (Derived No Effect Level): 4 mg/m³,DNEL (Derived No Effect Level): 11 mg/kg bw/day
+668fa86d5b6a97b5cc26949d,Terephthaloyl dichloride,DNEL (Derived No Effect Level): 2.65 mg/m³,DNEL (Derived No Effect Level): 6.1 mg/kg bw/day
+668fa86d5b6a97b5cc26949f,tert-butyl hydroperoxide,DNEL (Derived No Effect Level): 0.39 mg/m³,DNEL (Derived No Effect Level): 0.037 mg/kg bw/day
+668fa86d5b6a97b5cc2694a1,tert-butylbenzene,DNEL (Derived No Effect Level): 1.88 mg/m³,DNEL (Derived No Effect Level): 1.08 mg/kg bw/day
+668fa86d5b6a97b5cc2694a3,Tetraethylammonium hydroxide,DNEL (Derived No Effect Level): 24 µg/m³,DNEL (Derived No Effect Level): 42 µg/kg bw/day
+668fa86e5b6a97b5cc2694a5,Tetrahydrofuran,DNEL (Derived No Effect Level): 13 mg/m³,DNEL (Derived No Effect Level): 1.5 mg/kg bw/day
+668fa86e5b6a97b5cc2694a7,Tetrahydrofurfuryl alcohol,DNEL (Derived No Effect Level): 0.25 mg/m³,DNEL (Derived No Effect Level): 0.5 mg/kg bw/day
+668fa86e5b6a97b5cc2694a9,Tetramethylammonium chloride,DNEL (Derived No Effect Level): 1.76 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa8735b6a97b5cc2694ab,Tetramethylammonium hydroxide,DNEL (Derived No Effect Level): 0.029 mg/m³,DNEL (Derived No Effect Level): 16.67 µg/kg bw/day
+668fa8735b6a97b5cc2694ad,Tetramethylthiuram monosulphide,DNEL (Derived No Effect Level): 0.029 mg/m³,DNEL (Derived No Effect Level): 0.0833 mg/kg bw/day
+668fa8735b6a97b5cc2694af,Tetrylammonium bromide,DNEL (Derived No Effect Level): 2.18 mg/m³,DNEL (Derived No Effect Level): 1.25 mg/kg bw/day
+668fa8885b6a97b5cc2694b1,Thiamine hydrochloride,DNEL (Derived No Effect Level): 2.8 mg/m³,DNEL (Derived No Effect Level): 1.6 mg/kg bw/day
+668fa8885b6a97b5cc2694b3,thiourea; thiocarbamide,DNEL (Derived No Effect Level): 0.1 mg/m³,DNEL (Derived No Effect Level): 1.7 mg/kg bw/day
+668fa8895b6a97b5cc2694b5,Thymidine,DNEL (Derived No Effect Level): 5.5 mg/m³,DNEL (Derived No Effect Level): 12.5 mg/kg bw/day
+668fa8895b6a97b5cc2694b7,Thymol,DNEL (Derived No Effect Level): 5.8 mg/m³,DNEL (Derived No Effect Level): 3.34 mg/kg bw/day
+668fa8895b6a97b5cc2694b9,Toluene-2-sulphonamide,DNEL (Derived No Effect Level): 1.7 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa8895b6a97b5cc2694bb,Toluene-4-sulphonamide,DNEL (Derived No Effect Level): 5.65 mg/m³,DNEL (Derived No Effect Level): 8.1 mg/kg bw/day
+668fa88a5b6a97b5cc2694bd,Toluene-4-sulphonic acid,DNEL (Derived No Effect Level): 4.35 mg/m³,DNEL (Derived No Effect Level): 2.5 mg/kg bw/day
+668fa88a5b6a97b5cc2694bf,Toluene,DNEL (Derived No Effect Level): 56.5 mg/m³,DNEL (Derived No Effect Level): 226 mg/kg bw/day
+668fa88a5b6a97b5cc2694c1,trans-menthone,DNEL (Derived No Effect Level): 5.92 mg/m³,DNEL (Derived No Effect Level): 4 mg/kg bw/day
+668fa88b5b6a97b5cc2694c3,Triboron trimethyl hexaoxide,DNEL (Derived No Effect Level): 1.92 mg/m³,DNEL (Derived No Effect Level): 14.5 mg/kg bw/day
+668fa88b5b6a97b5cc2694c5,Tributyl citrate,DNEL (Derived No Effect Level): 28.8 mg/m³,DNEL (Derived No Effect Level): 12.5 mg/kg bw/day
+668fa88b5b6a97b5cc2694c7,Tributyl O-acetylcitrate,DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa88b5b6a97b5cc2694c9,Trichloroacetaldehyde,DNEL (Derived No Effect Level): 31.7 µg/m³,DNEL (Derived No Effect Level): 0.144 mg/kg bw/day
+668fa88c5b6a97b5cc2694cb,Trichloroacetic acid,DNEL (Derived No Effect Level): 61.3 mg/m³,DNEL (Derived No Effect Level): 0.705 mg/kg bw/day
+668fa88c5b6a97b5cc2694cd,Trichloroethylene,DNEL (Derived No Effect Level): 13.7 mg/m³,DNEL (Derived No Effect Level): 4.6 mg/kg bw/day
+668fa88c5b6a97b5cc2694cf,Triclocarban,DNEL (Derived No Effect Level): 0.435 mg/m³,DNEL (Derived No Effect Level): 0.25 mg/kg bw/day
+668fa88d5b6a97b5cc2694d1,Triethoxy(vinyl)silane,DNEL (Derived No Effect Level): 24.2 mg/m³,DNEL (Derived No Effect Level): 27.9 mg/kg bw/day
+668fa88d5b6a97b5cc2694d3,Triethyl citrate,DNEL (Derived No Effect Level): 28.8 mg/m³,DNEL (Derived No Effect Level): 12.5 mg/kg bw/day
+668fa88d5b6a97b5cc2694d5,Triethyl phosphate,DNEL (Derived No Effect Level): 1.74 mg/m³,DNEL (Derived No Effect Level): 1 mg/kg bw/day
+668fa88d5b6a97b5cc2694d7,"Trioctyl benzene-1,2,4-tricarboxylate",DNEL (Derived No Effect Level): 3.47 mg/m³,DNEL (Derived No Effect Level): 20 mg/kg bw/day
+668fa88e5b6a97b5cc2694d9,Tris(2-butoxyethyl) phosphate,DNEL (Derived No Effect Level): 1 mg/m³,DNEL (Derived No Effect Level): 7 mg/kg bw/day
+668fa8a25b6a97b5cc2694db,Trometamol,DNEL (Derived No Effect Level): 29 mg/m³,DNEL (Derived No Effect Level): 83.3 mg/kg bw/day
+668fa8a25b6a97b5cc2694dd,Undecan-4-olide,DNEL (Derived No Effect Level): 4.68 mg/m³,DNEL (Derived No Effect Level): 2.7 mg/kg bw/day
+668fa8a35b6a97b5cc2694df,Urea,DNEL (Derived No Effect Level): 1043.5 mg/m³,DNEL (Derived No Effect Level): 300 mg/kg bw/day
+668fa8a35b6a97b5cc2694e1,Vinyl 2-ethylhexanoate,DNEL (Derived No Effect Level): 2.9 mg/m³,DNEL (Derived No Effect Level): 13.89 mg/kg bw/day
+668fa8a35b6a97b5cc2694e3,"[3R-(3α,3aβ,6α,7β,8aα)]-octahydro-3,6,8,8-tetramethyl-1H-3a,7-methanoazulen-5-yl acetate",DNEL (Derived No Effect Level): 0.1577 mg/m³,DNEL (Derived No Effect Level): 0.0907 mg/kg bw/day
+668fa8a35b6a97b5cc2694e5,"α,α'-propylenedinitrilodi-o-cresol",DNEL (Derived No Effect Level): 0.76 mg/m³,DNEL (Derived No Effect Level): 0.44 mg/kg bw/day
+668fa8a45b6a97b5cc2694e7,α-phenyl-1H-benzimidazole-2-methanol,DNEL (Derived No Effect Level): 1.014 mg/m³,DNEL (Derived No Effect Level): 0.583 mg/kg bw/day
+668fa8a45b6a97b5cc2694e9,β-alanine,DNEL (Derived No Effect Level): 5.797 mg/m³,DNEL (Derived No Effect Level): 16.667 mg/kg bw/day
